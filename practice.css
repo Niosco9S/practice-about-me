@@ -1,0 +1,12 @@
+
+.hero {
+    background-image: url('https://chat.google.com/u/1/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fjpeg&attachment_token=AOo0EEWYrVpr2vl5M0CbfMHnymP4B2jVDluQC7lWtX8S4%2Bqmv%2BB8uN2pgfhhTv%2B5lc7J7Ch0LgCpNt8gPlw3bKyvhxnStG%2F9mU2KwkfGw4mTPCXAQ%2BOUjFO6iWZpEqsLet53hOgDy2I%2BJ%2Bpv84tBNl63SNsYzob5Ix5A%2FMZPihhH7OcslOXQYW1Ha3cE7EuWS6ToSzWJUIbA8LFK9Sa0970qXfI%2B5KalrKAYSSM5Z0OsM500v3gt%2BW1oGwycL4j3Jv3V2iBBROQnYjBLOwO7YE%2FiiO4mKOHpMosFurCm2EN0s6e3I3IrtJmBWhHcMqYXoEYwA0fwDSfGmcp97LMwPwrYa5vpF9ZUeemJnaXm9pD4uZ%2FNQz2XiLO3XuD%2FO59b1BTLzJcD4XkWXZc47IFC0Ll1sUMMe2R2GKETRapLGU%2FwTqRg50CSnrdPayXgeHQbQyA%2FyzyK6DcgX6zoSYGI%2FZQlLP3LbjOK2D2lQVDlZAHhUhm2sCEa2EEl18LY4NgwO40EGxV7TFlYO3sDx%2Fg50IcmQkqDernsh9sOUQMOtZtcvihXp3H0QCJXH%2F6V9vI0dzY0KQ%2BzQjivVSTG9q5PVIBpkxMkD2NDWbvYqRZ9Qrq1aYQHhGMOWTh2QEQ%3D&allow_caching=true&sz=w512&authuser=1');
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
